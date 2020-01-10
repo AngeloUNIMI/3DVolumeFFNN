@@ -78,8 +78,7 @@ for dd = 1 : numel(dirs)
     n_img = 0;
     gg_pc = 1;
     %loop on files
-    %for gg = 1 : 2 : numel(filesAB)
-    for gg = 1
+    for gg = 1 : 2 : numel(filesAB)
         
         n_img = n_img + 1;
         
