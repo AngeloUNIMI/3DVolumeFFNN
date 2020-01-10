@@ -12,7 +12,7 @@ Project page:
 http://iebil.di.unimi.it/projects/volume
 
 Outline:
-![Outline](http://iebil.di.unimi.it/images/volume.jpg "Outline")
+![Outline](http://iebil.di.unimi.it/images/volume.jpg | width=100 "Outline")
 
 Citation:
 
@@ -69,10 +69,4 @@ The Matlab function for Minimum Volume Enclosing Ellipsoid by Nima Moshtagh:
     Nima Moshtagh,
     "Minimum Volume Enclosing Ellipsoid"
     https://it.mathworks.com/matlabcentral/fileexchange/9542-minimum-volume-enclosing-ellipsoid
-    
-
-    
-
-    
-
 	
