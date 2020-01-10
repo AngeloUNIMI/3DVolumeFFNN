@@ -1,0 +1,320 @@
+Dev. std Reprojection Error su X totale (pixel): 0.502632
+Dev. std Reprojection Error su Y totale (pixel): 0.617600
+Dev. std Reprojection Error X e Y totale (pixel): 0.433131
+
+
+IMMAGINE N.1
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.176968
+Differenza diagonali (mm): 0.008134
+Differenza diagonali perc.: 0.01%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5889.371267
+Differenza Aree (mm): 1828.128733
+Differenza Aree perc.: 23.69%
+Distanza media (mm): 0.287636
+Massima distanza (mm): 0.637670
+Dev. std. distanza: 0.171059
+
+Distanza media norm.: 0.002244
+Massima distanza norm.: 0.004975
+Dev. std. distanza norm.: 0.133464
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.535791
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.182688
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.284097
+
+
+IMMAGINE N.2
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.074746
+Differenza diagonali (mm): 0.094088
+Differenza diagonali perc.: 0.07%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5879.490662
+Differenza Aree (mm): 1838.009338
+Differenza Aree perc.: 23.82%
+Distanza media (mm): 0.326131
+Massima distanza (mm): 0.762722
+Dev. std. distanza: 0.200417
+
+Distanza media norm.: 0.002545
+Massima distanza norm.: 0.005951
+Dev. std. distanza norm.: 0.156370
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.242685
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.944534
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.458542
+
+
+IMMAGINE N.3
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.052086
+Differenza diagonali (mm): 0.116748
+Differenza diagonali perc.: 0.09%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5877.218194
+Differenza Aree (mm): 1840.281806
+Differenza Aree perc.: 23.85%
+Distanza media (mm): 0.322306
+Massima distanza (mm): 0.783634
+Dev. std. distanza: 0.204237
+
+Distanza media norm.: 0.002515
+Massima distanza norm.: 0.006114
+Dev. std. distanza norm.: 0.159350
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.301811
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.847464
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.444207
+
+
+IMMAGINE N.4
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.104665
+Differenza diagonali (mm): 0.064169
+Differenza diagonali perc.: 0.05%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5882.952629
+Differenza Aree (mm): 1834.547371
+Differenza Aree perc.: 23.77%
+Distanza media (mm): 0.298834
+Massima distanza (mm): 0.650123
+Dev. std. distanza: 0.177650
+
+Distanza media norm.: 0.002332
+Massima distanza norm.: 0.005072
+Dev. std. distanza norm.: 0.138606
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.440946
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.210921
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.223434
+
+
+IMMAGINE N.5
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.084851
+Differenza diagonali (mm): 0.083983
+Differenza diagonali perc.: 0.07%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5879.629692
+Differenza Aree (mm): 1837.870308
+Differenza Aree perc.: 23.81%
+Distanza media (mm): 0.310962
+Massima distanza (mm): 0.711703
+Dev. std. distanza: 0.194780
+
+Distanza media norm.: 0.002426
+Massima distanza norm.: 0.005553
+Dev. std. distanza norm.: 0.151971
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.571968
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.453908
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.353800
+
+
+IMMAGINE N.6
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 127.896219
+Differenza diagonali (mm): 0.272615
+Differenza diagonali perc.: 0.21%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5877.566797
+Differenza Aree (mm): 1839.933203
+Differenza Aree perc.: 23.84%
+Distanza media (mm): 0.301317
+Massima distanza (mm): 0.699517
+Dev. std. distanza: 0.177443
+
+Distanza media norm.: 0.002351
+Massima distanza norm.: 0.005458
+Dev. std. distanza norm.: 0.138445
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.920914
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.303326
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.487924
+
+
+IMMAGINE N.7
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.114000
+Differenza diagonali (mm): 0.054834
+Differenza diagonali perc.: 0.04%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5880.034899
+Differenza Aree (mm): 1837.465101
+Differenza Aree perc.: 23.81%
+Distanza media (mm): 0.292913
+Massima distanza (mm): 0.700229
+Dev. std. distanza: 0.174796
+
+Distanza media norm.: 0.002285
+Massima distanza norm.: 0.005463
+Dev. std. distanza norm.: 0.136380
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.254835
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.570652
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.271572
+
+
+IMMAGINE N.8
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.052045
+Differenza diagonali (mm): 0.116789
+Differenza diagonali perc.: 0.09%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5873.850705
+Differenza Aree (mm): 1843.649295
+Differenza Aree perc.: 23.89%
+Distanza media (mm): 0.326568
+Massima distanza (mm): 0.766161
+Dev. std. distanza: 0.195448
+
+Distanza media norm.: 0.002548
+Massima distanza norm.: 0.005978
+Dev. std. distanza norm.: 0.152492
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.326017
+Dev. std Reprojection Error su Y per l'immagine(pixel): 1.055852
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.537693
+
+
+IMMAGINE N.9
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.099210
+Differenza diagonali (mm): 0.069624
+Differenza diagonali perc.: 0.05%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5872.281637
+Differenza Aree (mm): 1845.218363
+Differenza Aree perc.: 23.91%
+Distanza media (mm): 0.339507
+Massima distanza (mm): 0.814825
+Dev. std. distanza: 0.212925
+
+Distanza media norm.: 0.002649
+Massima distanza norm.: 0.006357
+Dev. std. distanza norm.: 0.166129
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.352180
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.874950
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.463348
+
+
+IMMAGINE N.10
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.141606
+Differenza diagonali (mm): 0.027228
+Differenza diagonali perc.: 0.02%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5881.993506
+Differenza Aree (mm): 1835.506494
+Differenza Aree perc.: 23.78%
+Distanza media (mm): 0.332361
+Massima distanza (mm): 0.826089
+Dev. std. distanza: 0.199986
+
+Distanza media norm.: 0.002593
+Massima distanza norm.: 0.006445
+Dev. std. distanza norm.: 0.156034
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.792000
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.328770
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.384645
+
+
+IMMAGINE N.11
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.150888
+Differenza diagonali (mm): 0.017946
+Differenza diagonali perc.: 0.01%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5880.840603
+Differenza Aree (mm): 1836.659397
+Differenza Aree perc.: 23.80%
+Distanza media (mm): 0.304205
+Massima distanza (mm): 0.761723
+Dev. std. distanza: 0.199129
+
+Distanza media norm.: 0.002373
+Massima distanza norm.: 0.005943
+Dev. std. distanza norm.: 0.155365
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.753831
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.787324
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.519831
+
+
+IMMAGINE N.12
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.120314
+Differenza diagonali (mm): 0.048520
+Differenza diagonali perc.: 0.04%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5882.805955
+Differenza Aree (mm): 1834.694045
+Differenza Aree perc.: 23.77%
+Distanza media (mm): 0.300403
+Massima distanza (mm): 0.633885
+Dev. std. distanza: 0.177527
+
+Distanza media norm.: 0.002344
+Massima distanza norm.: 0.004946
+Dev. std. distanza norm.: 0.138510
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.321211
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.194330
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.188503
+
+
+IMMAGINE N.13
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.221418
+Differenza diagonali (mm): 0.052584
+Differenza diagonali perc.: 0.04%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5899.178149
+Differenza Aree (mm): 1818.321851
+Differenza Aree perc.: 23.56%
+Distanza media (mm): 0.314798
+Massima distanza (mm): 0.729671
+Dev. std. distanza: 0.189368
+
+Distanza media norm.: 0.002456
+Massima distanza norm.: 0.005693
+Dev. std. distanza norm.: 0.147749
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.455685
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.672919
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.362847
+
+
+IMMAGINE N.14
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.105793
+Differenza diagonali (mm): 0.063041
+Differenza diagonali perc.: 0.05%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5885.041226
+Differenza Aree (mm): 1832.458774
+Differenza Aree perc.: 23.74%
+Distanza media (mm): 0.309061
+Massima distanza (mm): 0.784250
+Dev. std. distanza: 0.185431
+
+Distanza media norm.: 0.002411
+Massima distanza norm.: 0.006119
+Dev. std. distanza norm.: 0.144677
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.365504
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.587567
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.315949
+
+
+IMMAGINE N.15
+Diagonale vera (mm): 128.168834
+Diagonale calcolata (mm): 128.118481
+Differenza diagonali (mm): 0.050353
+Differenza diagonali perc.: 0.04%
+Area vera (mm): 7717.500000
+Area calcolata (mm): 5886.140775
+Differenza Aree (mm): 1831.359225
+Differenza Aree perc.: 23.73%
+Distanza media (mm): 0.314364
+Massima distanza (mm): 0.736386
+Dev. std. distanza: 0.181764
+
+Distanza media norm.: 0.002453
+Massima distanza norm.: 0.005745
+Dev. std. distanza norm.: 0.141816
+Dev. std Reprojection Error su X per l'immagine(pixel): 0.297185
+Dev. std Reprojection Error su Y per l'immagine(pixel): 0.163675
+Dev. std Reprojection Error X e Y per l'immagine(pixel): 0.175094
+
+
