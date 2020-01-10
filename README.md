@@ -12,7 +12,8 @@ Project page:
 http://iebil.di.unimi.it/projects/volume
 
 Outline:
-<img src="http://iebil.di.unimi.it/images/volume.jpg" width="200">
+
+<img src="http://iebil.di.unimi.it/images/volume.jpg" width="500">
 
 Citation:
 
