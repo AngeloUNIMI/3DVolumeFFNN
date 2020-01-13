@@ -12,6 +12,10 @@ Project page:
 
 http://iebil.di.unimi.it/projects/volume
 
+Dataset:
+
+<img src="http://iebil.di.unimi.it/images/datasetVolume.png" width="500">
+
 Outline:
 
 <img src="http://iebil.di.unimi.it/images/volume.jpg" width="500">
