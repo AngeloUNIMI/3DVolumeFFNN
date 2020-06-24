@@ -14,7 +14,7 @@ http://iebil.di.unimi.it/projects/volume
 
 Dataset:
 
-<img src="http://iebil.di.unimi.it/images/datasetVolume.png" width="700">
+<img src="http://iebil.di.unimi.it/images/datasetVolume2.png" width="700">
 
 Outline:
 
