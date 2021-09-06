@@ -6,7 +6,10 @@ Matlab source code for the paper:
     "Low-cost volume estimation by two-view acquisitions: A computational intelligence approach," 
     The 2012 International Joint Conference on Neural Networks (IJCNN), Brisbane, QLD, Australia, 2012, pp. 1-8.
     doi: 10.1109/IJCNN.2012.6252515
-    https://ieeexplore.ieee.org/document/6252515
+    
+Paper:
+
+https://ieeexplore.ieee.org/document/6252515
 	
 Project page:
 
